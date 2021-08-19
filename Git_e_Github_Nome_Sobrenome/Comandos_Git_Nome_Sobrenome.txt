@@ -1,0 +1,13 @@
+Criar
+Clonar um repositorio existente
+$ git clone ssh://usuario@domain.com/repo.git
+Criar um novo repositório local
+$ git init
+Status
+$ git Status
+Commit
+$ git Commit -m "Enviando para a mochila"
+Enviar para o repositorio remoto
+$ git push origin nome_da_branch
+
+
